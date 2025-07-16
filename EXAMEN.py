@@ -1,4 +1,4 @@
-# Código de Git: 
+# Código de Git: https://github.com/Galea-M/EXAMEN/edit/main/EXAMEN.py
 
 # Diccionarios con los datos del ejercicio.
 # Estos guardan información que se va a utilizar en el código, como los modelos, sus características, precio, etc.
